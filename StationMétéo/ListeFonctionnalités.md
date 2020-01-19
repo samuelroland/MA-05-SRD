@@ -1,5 +1,5 @@
 # Liste des fonctionnalités de la station météo
-## Station météo réalisé en Labview dans le cadre du cours MA-05.
+## Station météo réalisé avec Labview dans le cadre du cours MA-05.
 
 ### Obligatoires:
 
@@ -11,7 +11,9 @@
 
 ### Choisies:
 
-1. 
+1. Affichage des valeurs minimum, maximum et moyennes des 3 mesures 
+1. Affichage des dates/heures de mesures sur les graphes
+1. Permettre de modifier les intervalles de mesure par type. Par exemple: température toutes les 30s, humidité toutes les 30s, pression toutes les 15 minutes
 
 ### Maquette de la face avant:
 ![MaquetteStationMeteo.png](MaquetteStationMeteo.png)
@@ -19,4 +21,4 @@
 ### Choix des graphiques:
 1. Waveform chart: on lui envoit les valeurs quand elles arrivent
 
-1. Waveform graph: on lui donne un tableau de valeur et il dessinne d'un seul coup.
+1. Waveform graph: on lui donne un tableau de valeur et il dessine d'un seul coup.
