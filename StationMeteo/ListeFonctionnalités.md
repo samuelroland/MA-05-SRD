@@ -19,6 +19,6 @@
 ![MaquetteStationMeteo.png](MaquetteStationMeteo.png)
 
 ### Choix des graphiques:
-1. Waveform chart: on lui envoit les valeurs quand elles arrivent
+1. Waveform chart: on lui envoit les valeurs seules (donc quand elles arrivent) et il affiche les valeurs avec un espace constant.
 
 1. Waveform graph: on lui donne un tableau de valeur et il dessine d'un seul coup.
