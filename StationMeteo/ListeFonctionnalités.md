@@ -13,7 +13,7 @@
 
 1. Affichage des valeurs minimum, maximum et moyennes des 3 mesures 
 1. Affichage des dates/heures de mesures sur les graphes
-1. Permettre de modifier les intervalles de mesure par type. Par exemple: température toutes les 30s, humidité toutes les 30s, pression toutes les 15 minutes
+1. Permettre d'enregistrer les valeurs à la fois dans un fichier global ou dans des fichiers séparés
 
 ### Maquette de la face avant:
 ![MaquetteStationMeteo.png](MaquetteStationMeteo.png)
